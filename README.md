@@ -3,6 +3,10 @@
 APKs for installing graygate on Android without Google Play. Get the latest one from
 [Releases](https://github.com/graygate/app-release/releases/latest).
 
+**Get notified of new releases: join the Telegram channel [t.me/graygate](https://t.me/graygate).**
+Every release is announced there with the download link, the release notes, and the APK's SHA-256 —
+the app does not check for updates by itself, so the channel is how you learn a new version is out.
+
 - **Update by installing over the previous release. Do not uninstall first.** Uninstalling deletes
   all conversations and keys on the device; they cannot be recovered.
 - Every release here uses the same package name (`com.joshephan.graygate`) and the same signing
